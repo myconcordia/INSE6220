@@ -1,1 +1,1 @@
-# INSE6220
+INSE 6220: Tutorials
