@@ -1,1 +1,1 @@
-INSE 6220: Tutorials
+# INSE 6220: Advanced Statistical Approaches to Quality
