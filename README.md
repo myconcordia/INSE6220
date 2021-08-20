@@ -2,4 +2,4 @@
 
 ## INSE 6220: Advanced Statistical Approaches to Quality
 
-> A list of Jupyter notebooks for tutorials and final project
+> A list of Jupyter notebooks for tutorials and sample project
